@@ -5,9 +5,6 @@ Created on Fri Sep 25 14:22:46 2020
 @author: Jianyong
 """
 
-import os
-path="D:\Data_analysis\Python\CA_MST"
-os.chdir(path)
 
 import numpy as np
 import pandas as pd
